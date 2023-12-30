@@ -5,9 +5,6 @@ Welcome to the StakingDappYT project! This repository contains instructions for 
 ## Overview of Staking DApp
 
 The StakingDappYT is a decentralized application that enables users to stake ERC20 tokens into the platform and earn rewards. The staking process generates reward tokens per second, rewarding users based on their staked amount and duration. 
-[Stakind Dapp Tutorial (Hindi) ](https://www.youtube.com/@CodeEater21)
-
-![Homepage Screenshot](https://github.com/kshitijofficial/StakingDappYT/raw/main/client/src/assets/homepage.png)
 
 
 ### Key Tokens
@@ -74,6 +71,3 @@ Before using the `getReward()` function, transfer the reward token to the stakin
    ```bash
    npm run dev
    ```
-## Contact
-For any questions or inquiries, feel free to reach out to [Kshitij] at [https://twitter.com/KshitijWeb3].
----
